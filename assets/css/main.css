@@ -3142,3 +3142,8 @@ input, select, textarea {
 				}
 
 	}
+
+
+	#about_me_text {
+		font-size: 16px;
+	}
