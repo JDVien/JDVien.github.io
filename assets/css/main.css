@@ -2739,7 +2739,7 @@ input, select, textarea {
 
 		.main .container {
 			padding: 5em 2.5em 8em 2.5em ;
-			background: rgba(238, 238, 238, 0.849);
+			background: rgba(223, 221, 221, 0.726);
 			box-shadow: inset 0 1px 0 0 #dddddd;
 		}
 
@@ -2802,7 +2802,7 @@ input, select, textarea {
 		}
 
 		#header header {
-			background: rgba(238, 238, 238, 0.849);
+			color: rgba(255, 255, 255, 0.5);
 			display: inline-block;
 			padding-bottom: 8em;
 			vertical-align: middle;
